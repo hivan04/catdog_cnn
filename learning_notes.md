@@ -42,7 +42,12 @@ It is used due to non-linearity. Neural networks need non-linear actication func
     - Categorical Crossentropy = use when there is more than two classes labels are one-hot encoded vectors [0, 0, 1, 0]<br>
     - Sparse Categorical Crossentropy = use when there are more than two classes and labels are integers, e.g. 2<br>
     - Binary Crossentropy = use when there are only two classes (e.g. cat and dog) and labels are 0 or 1. Works with the sigmoid output.<br>
-        Formula: $\text{Loss}=-[y\dot log(\hat{y})+(1-y)\dot log(1-\hat{y})]$        
+        Formula: $\text{Loss}=-[y\dot log(\hat{y})+(1-y)\dot log(1-\hat{y})]$<br><br>
+
+*pickle library*
+``` pickle_out = open("X.pickle", "wb") ``` opens a the file X.pickle to save the data
+``` pickle.dump(X, pickle_out) ``` dumps the X data into the X.pickle file
+``` pickle_out.close() ``` closes the file
 
 
 

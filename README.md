@@ -3,6 +3,7 @@
 Currently in Progress... <br>
 
 ### Setting up venv 
+*  *  *  *  *
 1. Create a virtual environement
     ```
     python -m venv cnn

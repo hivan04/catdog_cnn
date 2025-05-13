@@ -12,7 +12,7 @@ Currently in Progress... <br>
     ```
 2. Install libraries
    ```
-   pip install -- upgrade tensorflow matplotlib 
+   pip install tensorflow matplotlib 
    ```
    
 ### Resources used to help me create this model:

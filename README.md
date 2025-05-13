@@ -13,6 +13,7 @@ Currently in Progress... <br>
 2. Install libraries
    ```
    pip install -- upgrade tensorflow matplotlib 
-
+   ```
+   
 ### Resources used to help me create this model:
 - https://www.youtube.com/watch?v=jztwpsIzEGc

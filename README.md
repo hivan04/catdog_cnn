@@ -6,7 +6,7 @@ Currently in Progress... <br>
 2. Create a virtual environement
     ``` python -m venv cnn
         source cnn/bin/activate #on mac
-        cnn\Scripts\activate #on windows ```
+        cnn\Scripts\activate #on windows
     
 4. 
 

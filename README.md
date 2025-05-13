@@ -6,9 +6,9 @@ Currently in Progress... <br>
 - - -
 1. Create a virtual environement
     ```
-    python -m venv cnn
-    source cnn/bin/activate #on mac
-    cnn\Scripts\activate #on windows
+    py -3.10 -m venv .venv
+    source .venv/bin/activate #on mac
+    .venv\Scripts\activate #on windows
     ```
 2. Install libraries
    ```

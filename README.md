@@ -9,7 +9,7 @@ Currently in Progress... <br>
     python -m venv cnn
     source cnn/bin/activate #on mac
     cnn\Scripts\activate #on windows
-
+    ```
 2. Install libraries
    ```
    pip install -- upgrade tensorflow matplotlib 
